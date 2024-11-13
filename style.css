@@ -1,0 +1,120 @@
+body{
+  background-color: black;
+  margin: 0;
+}
+
+.ig__post {
+  width: 500px;
+  height: 500px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto;
+  background-color: white;
+  padding: 10px;
+  
+}
+
+.instagram-post {
+  width: 300px; 
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  border: 1px solid gray;
+   border-radius: 10px;
+ 
+}
+
+.instagram-post__header {
+  padding: .5rem;
+  height: 10%;
+  
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.instagram-post__icons-section {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  gap: 5px;
+}
+
+.instagram-post__title-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.instagram-post__image {
+  height: 50%;
+}
+
+.instagram-post__buttons {
+  width: 10%;
+  height: 10%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+}
+
+.instagram-post__body {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+ 
+}
+
+.instagram-post__like-text {
+  font-size: small;
+}
+
+.instagram-post__description {
+  font-size: small;
+}
+
+.instagram-post__highlighted-text {
+  font-weight: 700;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
